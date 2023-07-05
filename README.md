@@ -10,7 +10,7 @@
 
 starting and installing project dependencies:
 ```bash
-npx create-next-app
+npx create-react-app
 
 npm install axios
 # or
@@ -18,9 +18,5 @@ npm i axios
 ```
 starting server:
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
+npm start
 ```
